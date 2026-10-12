@@ -1,4 +1,3 @@
-# Data-Cleaning-RegEx
 # Presidential Data Cleaning Using Regular Expressions
 
 ## Project Overview
